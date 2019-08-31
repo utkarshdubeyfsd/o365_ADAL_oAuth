@@ -32,7 +32,9 @@ Register an app using [Register an application with the Microsoft identity platf
 
 You will need to set the following permission in your Azure app.
 
+![Permission](https://github.com/utkarshdubeyfsd/o365_ADAL_oAuth/blob/master/Permission.PNG)
 
+> After setting up an application and applying for permission, In my case, it took 1 day for the application to run. Otherwise, it shows the Token failed to acquire.
 
 ## Using this application
 
@@ -55,5 +57,12 @@ git clone https://github.com/utkarshdubeyfsd/o365_ADAL_oAuth.git
    - Syroot.Windows.IO.KnownFolders
 3. Update details on **appsettings.json** file like `ClientId`, `ClientSecret` and etc.
 4. Execute the application
+
+## Output
+
+This is how the application will look like.
+
+![Output](https://github.com/utkarshdubeyfsd/o365_ADAL_oAuth/blob/master/o365_ADAL_Oauth_output.gif)
+
 
 > No Wor**d**, Only Wor**k**

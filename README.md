@@ -26,9 +26,19 @@ This is the list of operation which you can perform using this console applicati
 
 ## Register an app on Azure
 
-## Steps which you will need to perform before running the application
 
-1. Clone the application to your local environment.
+
+## Using this application
+
+To build and start using this application, follow below mentioned instructions.
+
+1. Clone this repository by executing the following command in your console:
+
+```
+
+git clone https://github.com/utkarshdubeyfsd/o365_ADAL_oAuth.git
+```
+
 2. Install all the packages from NuGet
    - Microsoft.Extension.Configuration
    - Microsoft.Extension.Configuration.Binder

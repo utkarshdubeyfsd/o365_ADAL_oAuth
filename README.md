@@ -26,6 +26,12 @@ This is the list of operation which you can perform using this console applicati
 
 ## Register an app on Azure
 
+Register an app using [Register an application with the Microsoft identity platform](https://docs.microsoft.com/en-us/graph/auth-register-app-v2) article. After that, you need to acquire Client ID, Client Secret, and Tenant ID.
+
+## Set permission
+
+You will need to set the following permission in your Azure app.
+
 
 
 ## Using this application
@@ -35,7 +41,6 @@ To build and start using this application, follow below mentioned instructions.
 1. Clone this repository by executing the following command in your console:
 
 ```
-
 git clone https://github.com/utkarshdubeyfsd/o365_ADAL_oAuth.git
 ```
 

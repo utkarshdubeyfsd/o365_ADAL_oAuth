@@ -24,16 +24,21 @@ This is the list of operation which you can perform using this console applicati
 - Get All File Names and Folder Names
 - Create Folder
 
+## Register an app on Azure
+
 ## Steps which you will need to perform before running the application
 
 1. Clone the application to your local environment.
 2. Install all the packages from NuGet
-  - Microsoft.Extension.Configuration
-  - Microsoft.Extension.Configuration.Binder
-  - Microsoft.Extension.Configuration.Json
-  - Microsoft.Graph
-  - Microsoft.Identity.Client
-  - Microsoft.NETCore.App
-  - Newtonsoft.Json
-  - Syroot.Windows.IO.KnownFolders
+   - Microsoft.Extension.Configuration
+   - Microsoft.Extension.Configuration.Binder
+   - Microsoft.Extension.Configuration.Json
+   - Microsoft.Graph
+   - Microsoft.Identity.Client
+   - Microsoft.NETCore.App
+   - Newtonsoft.Json
+   - Syroot.Windows.IO.KnownFolders
 3. Update details on **appsettings.json** file like `ClientId`, `ClientSecret` and etc.
+4. Execute the application
+
+> No Wor**d**, Only Wor**k**

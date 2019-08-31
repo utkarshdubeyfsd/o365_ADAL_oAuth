@@ -1,6 +1,6 @@
 # O365 ADAl Oauth
 
-It is a console application built on .NET Framework. Which will first do authentication via Graph API and then accuire a Token. 
+It is a console application built on .NET Framework. Which will first do authentication via Graph API and then acquire a Token. 
 
 This is the list of operation which you can perform using this console application.
 
